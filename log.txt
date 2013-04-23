@@ -1,0 +1,3423 @@
+Started
+Addition Selected
+Input is 9
+Addition Selected
+Input is 3
+Addition Selected
+Input is 11
+Addition Selected
+Input is 20
+Addition Selected
+Input is 29
+Input is 20
+Input is 0
+Input is 0
+Input is 0
+Input is 71
+Started
+Addition Selected
+Input is 6
+Addition Selected
+Input is 9
+Addition Selected
+Input is 8
+Addition Selected
+Input is 14
+Addition Selected
+Input is 13
+Addition Selected
+Input is 7
+Input is 7
+Input is 7
+Input is 7
+Input is 7
+Started
+Addition Selected
+Input is 8
+Addition Selected
+Input is 3
+Addition Selected
+Input is 1
+Addition Selected
+Input is 15
+Started
+Addition Selected
+Input is 12
+Addition Selected
+Input is 3
+Addition Selected
+Input is 9
+Addition Selected
+Input is 13
+Addition Selected
+Stopped
+Started
+Addition Selected
+Input is 9
+Addition Selected
+Input is 11
+Addition Selected
+Input is 8
+Addition Selected
+Input is 13
+Addition Selected
+Stopped
+Started
+Addition Selected
+Input is 5
+Addition Selected
+Input is 4
+Addition Selected
+Stopped
+Started
+Started
+Started
+Stopped
+Stopped
+Started
+Started
+Stopped
+Started
+Input is 5
+Input is 5
+Addition Selected
+Input is 6
+Addition Selected
+Stopped
+Started
+Addition Selected
+Input is 9
+Addition Selected
+Input is 14
+Addition Selected
+Started
+Stopped
+Started
+Addition Selected
+Input is 7
+Addition Selected
+Input is 6
+Addition Selected
+Started
+Started
+Addition Selected
+Started
+Addition Selected
+Started
+Input is 0
+Input is 0
+Input is 0
+Input is 0
+Input is 4
+Started
+Stopped
+Started
+Stopped
+Started
+Started
+Stopped
+Started
+Addition Selected
+Started
+Addition Selected
+Started
+Addition Selected
+Started
+Addition Selected
+Started
+Started
+Addition Selected
+Input is 18
+Addition Selected
+Started
+Addition Selected
+Stopped
+Started
+Addition Selected
+Stopped
+Stopped
+Stopped
+Started
+Addition Selected
+Started
+Addition Selected
+Started
+Addition Selected
+Started
+Addition Selected
+Input is 0
+Addition Selected
+Input is 0
+Addition Selected
+Started
+Addition Selected
+Input is 0
+Addition Selected
+Input is 0
+Addition Selected
+Input is 0
+Addition Selected
+Started
+Addition Selected
+Input is 0
+Addition Selected
+Input is 0
+Addition Selected
+Input is 11
+Addition Selected
+Stopped
+Started
+Addition Selected
+Started
+Stopped
+Started
+Addition Selected
+Stopped
+Started
+Addition Selected
+Stopped
+Started
+Addition Selected
+Started
+Stopped
+Started
+Stopped
+Started
+Addition Selected
+Started
+Addition Selected
+Started
+Addition Selected
+Started
+Addition Selected
+Started
+Addition Selected
+Started
+Stopped
+Started
+Addition Selected
+Input is 0
+Addition Selected
+Input is 0
+Addition Selected
+Started
+Started
+Addition Selected
+Started
+Addition Selected
+Started
+Addition Selected
+Started
+Addition Selected
+Started
+Addition Selected
+Started
+Addition Selected
+Input is 13
+Addition Selected
+Started
+Addition Selected
+Input is 7
+Addition Selected
+Started
+Addition Selected
+Input is 8
+Addition Selected
+Started
+Addition Selected
+Input is 9
+Addition Selected
+Started
+Addition Selected
+Input is 13
+Addition Selected
+Started
+Addition Selected
+Input is 10
+Addition Selected
+Started
+Addition Selected
+Input is 5
+Addition Selected
+Started
+Addition Selected
+Input is 9
+Addition Selected
+Started
+Addition Selected
+Input is 5
+Addition Selected
+Started
+Addition Selected
+Input is 1
+Addition Selected
+Stopped
+Started
+Addition Selected
+Input is 7
+Addition Selected
+Stopped
+Started
+Addition Selected
+Input is 5
+Addition Selected
+Stopped
+Started
+Input is 0
+Input is 0
+Started
+Addition Selected
+Started
+Addition Selected
+Stopped
+Started
+Addition Selected
+Input is 1
+Addition Selected
+Started
+Addition Selected
+Input is 1
+Addition Selected
+Started
+Addition Selected
+Input is 7
+Addition Selected
+Started
+Addition Selected
+Input is 16
+Addition Selected
+Started
+Addition Selected
+Input is 9
+Addition Selected
+Started
+Addition Selected
+Input is 16
+Addition Selected
+Started
+Addition Selected
+Input is 10
+Addition Selected
+Started
+Addition Selected
+Started
+Addition Selected
+Input is 5
+Addition Selected
+Input is 17
+Addition Selected
+Input is 3
+Addition Selected
+Input is 18
+Addition Selected
+Input is 6
+Addition Selected
+Input is 17
+Addition Selected
+Input is 10
+Addition Selected
+Input is 12
+Addition Selected
+Input is 11
+Addition Selected
+Input is 11
+Addition Selected
+Input is 11
+Addition Selected
+Input is 5
+Addition Selected
+Input is 21
+Addition Selected
+Input is 19
+Input is 19
+Started
+Addition Selected
+Input is 12
+Addition Selected
+Input is 7
+Addition Selected
+Input is 5
+Addition Selected
+Input is 5
+Addition Selected
+Input is 15
+Addition Selected
+Input is 9
+Addition Selected
+Input is 5
+Input is 5
+Input is 5
+Input is 5
+Input is 9
+Input is 6
+Input is 0
+Input is 3
+Input is 27
+Started
+Addition Selected
+Input is 2
+Addition Selected
+Input is 13
+Addition Selected
+Input is 7
+Addition Selected
+Input is 1
+Addition Selected
+Input is 1
+Addition Selected
+Input is 1
+Addition Selected
+Input is 6
+Addition Selected
+Input is 6
+Addition Selected
+Input is 6
+Addition Selected
+Input is 6
+Addition Selected
+Input is 6
+Addition Selected
+Input is 6
+Addition Selected
+Input is 3
+Addition Selected
+Input is 3
+Addition Selected
+Input is 3
+Addition Selected
+Input is 3
+Addition Selected
+Input is 3
+Addition Selected
+Input is 3
+Input is 3
+Input is 3
+Input is 3
+Input is 3
+Input is 3
+Input is 3
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Input is 16
+Started
+Started
+Addition Selected
+Input is 14
+Addition Selected
+Input is 5
+Addition Selected
+Started
+Addition Selected
+Started
+Addition Selected
+Input is 1
+Addition Selected
+Input is 14
+Addition Selected
+Input is 8
+Addition Selected
+Input is 8
+Addition Selected
+Started
+Addition Selected
+
+
+Making panels
+Adding panels to frame
+Ok Button Clicked
+Player name received
+TextField and OkButton Removed
+HighScore button added
+Hi Mani!!! displayed
+highScore button clicked
+highScore button clicked
+Making panels
+Adding panels to frame
+Ok Button Clicked
+Player name received
+TextField and OkButton Removed
+HighScore button added
+Making panels
+Adding panels to frame
+Ok Button Clicked
+Player name received
+TextField and OkButton Removed
+HighScore button added
+Hi Mani!!! displayed
+highScore button clicked
+highScore button clicked
+Making panels
+Adding panels to frame
+Ok Button Clicked
+Player name received
+TextField and OkButton Removed
+HighScore button added
+Hi Mani!!! displayed
+highScore button clicked
+highScore button clicked
+highScore button clicked
+Making panels
+Adding panels to frame
+Ok Button Clicked
+Player name received
+TextField and OkButton Removed
+HighScore button added
+Hi Mani!!! displayed
+highScore button clicked
+Making panels
+Adding panels to frame
+Ok Button Clicked
+Player name received
+TextField and OkButton Removed
+HighScore button added
+Hi Mani!!! displayed
+highScore button clicked
+Making panels
+Adding panels to frame
+Making panels
+Adding panels to frame
+Ok Button Clicked
+Player name received
+TextField and OkButton Removed
+HighScore button added
+Hi Mani!!! displayed
+highScore button clicked
+Making panels
+Adding panels to frame
+Ok Button Clicked
+Player name received
+TextField and OkButton Removed
+HighScore button added
+Hi Mani!!! displayed
+highScore button clicked
+highScore button clicked
+Making panels
+Adding panels to frame
+Ok Button Clicked
+Player name received
+TextField and OkButton Removed
+HighScore button added
+Hi Mani!!! displayed
+highScore button clicked
+Making panels
+Adding panels to frame
+Ok Button Clicked
+Player name received
+TextField and OkButton Removed
+HighScore button added
+Hi Mani!!! displayed
+highScore button clicked
+Making panels
+Adding panels to frame
+Ok Button Clicked
+Player name received
+TextField and OkButton Removed
+HighScore button added
+Hi Mani!!! displayed
+highScore button clicked
+Started
+Addition Selected
+Input is 13
+Addition Selected
+Input is 7
+Addition Selected
+Making panels
+Adding panels to frame
+Ok Button Clicked
+Player name received
+TextField and OkButton Removed
+HighScore button added
+Hi Mani!!! displayed
+highScore button clicked
+Making panels
+Adding panels to frame
+Ok Button Clicked
+Player name received
+TextField and OkButton Removed
+HighScore button added
+Hi Mani!!! displayed
+highScore button clicked
+Making panels
+Adding panels to frame
+Making panels
+Adding panels to frame
+Ok Button Clicked
+Player name received
+TextField and OkButton Removed
+HighScore button added
+Hi Mani!!! displayed
+Making panels
+Adding panels to frame
+Ok Button Clicked
+Player name received
+TextField and OkButton Removed
+HighScore button added
+Hi Mani!!! displayed
+Started
+Addition Selected
+Making panels
+Adding panels to frame
+Ok Button Clicked
+Player name received
+TextField and OkButton Removed
+HighScore button added
+Hi sad!!! displayed
+Started
+Input is 0
+Started
+Addition Selected
+Input is 0
+Input is 0
+Input is 0
+Input is 0
+Input is 0
+Input is 0
+Input is 0
+Input is 0
+Input is 0
+Input is 0
+Started
+Addition Selected
+Input is 8
+Addition Selected
+Input is 7
+Input is 7
+Input is -3
+Input is 2
+Input is 2
+Input is 3
+Input is 6
+Input is 0
+Input is 1
+Input is 0
+Input is 0
+Input is 0
+Input is 1
+Input is 0
+Input is 1
+Making panels
+Adding panels to frame
+Ok Button Clicked
+Player name received
+TextField and OkButton Removed
+HighScore button added
+Hi Vikas!!! displayed
+Started
+Addition Selected
+Input is 7
+Addition Selected
+Input is 12
+Addition Selected
+Input is 10
+Addition Selected
+Input is 10
+Input is 1
+Input is 2
+Input is -2
+Input is 2
+Input is 2
+Input is 2
+Input is 2
+Input is 2
+Input is 2
+Input is 2
+Input is 2
+Input is 2
+Input is 6
+Input is 6
+Input is 6
+Input is 6
+Input is 6
+Input is 6
+Input is 6
+Input is 6
+Input is 6
+Input is 6
+Input is 6
+Input is 6
+Input is 6
+Input is 6
+Input is 6
+Input is 6
+Input is 1
+Input is 1
+Input is 1
+Input is 1
+highScore button clicked
+Making panels
+Adding panels to frame
+Ok Button Clicked
+Player name received
+TextField and OkButton Removed
+HighScore button added
+Hi Vikas!!! displayed
+highScore button clicked
+highScore button clicked
+highScore button clicked
+Making panels
+Adding panels to frame
+Making panels
+Adding panels to frame
+Ok Button Clicked
+Player name received
+TextField and OkButton Removed
+HighScore button added
+Hi Vikas!!! displayed
+highScore button clicked
+highScore button clicked
+Making panels
+Adding panels to frame
+Ok Button Clicked
+Player name received
+TextField and OkButton Removed
+HighScore button added
+Hi !!! displayed
+highScore button clicked
+Making panels
+Adding panels to frame
+String Test
+String Test
+Addition Selected
+Making panels
+Adding panels to frame
+Making panels
+Adding panels to frame
+Making panels
+Adding panels to frame
+Making panels
+Adding panels to frame
+Ok Button Clicked
+Player name received
+TextField and OkButton Removed
+HighScore button added
+Hi Mani!!! displayed
+highScore button clicked
+Making panels
+Adding panels to frame
+Ok Button Clicked
+Player name received
+TextField and OkButton Removed
+HighScore button added
+Hi Mani!!! displayed
+Hangman game started
+Making panels
+Adding panels to frame
+Ok Button Clicked
+Player name received
+TextField and OkButton Removed
+HighScore button added
+Hi Mani!!! displayed
+Hangman game started
+Making panels
+Adding panels to frame
+Ok Button Clicked
+Player name received
+TextField and OkButton Removed
+HighScore button added
+Hi Mani!!! displayed
+Hangman game started
+Making panels
+Adding panels to frame
+Making panels
+Adding panels to frame
+Making panels
+Adding panels to frame
+Making panels
+Adding panels to frame
+Making panels
+Adding panels to frame
+Making panels
+Adding panels to frame
+Making panels
+Adding panels to frame
+Making panels
+Adding panels to frame
+Making panels
+Adding panels to frame
+Making panels
+Adding panels to frame
+Making panels
+Adding panels to frame
+Making panels
+Adding panels to frame
+Making panels
+Adding panels to frame
+Making panels
+Adding panels to frame
+Making panels
+Adding panels to frame
+Making panels
+Adding panels to frame
+Making panels
+Adding panels to frame
+Making panels
+Adding panels to frame
+Making panels
+Adding panels to frame
+Making panels
+Adding panels to frame
+Ok Button Clicked
+Player name received
+TextField and OkButton Removed
+HighScore button added
+Hi Mani!!! displayed
+highScore button clicked
+Scores displayed
+Making panels
+Adding panels to frame
+Ok Button Clicked
+Player name received
+TextField and OkButton Removed
+HighScore button added
+Hi Mani!!! displayed
+highScore button clicked
+Scores displayed
+Making panels
+Adding panels to frame
+Ok Button Clicked
+Player name received
+TextField and OkButton Removed
+HighScore button added
+Hi Mani!!! displayed
+highScore button clicked
+Scores displayed
+main frame created
+menubar created
+play again jmenu item added
+about jmenu item added
+exit jmenu item added
+jpanel created
+color of background changed to green
+image array list created and images stored
+100 jlabels created to add the text to jpanel
+100 jlabels added to the jpanel
+100 jlabels in an array created to store images
+jlabels containing images in an array added to jpanel
+jbutton created 
+jbutton added to jpanel
+jbutton created
+jbutton added to jpanel
+action listener for play again called
+old frame is switched off
+new class object created
+tic function is called
+main frame created
+menubar created
+play again jmenu item added
+about jmenu item added
+exit jmenu item added
+jpanel created
+color of background changed to green
+image array list created and images stored
+100 jlabels created to add the text to jpanel
+100 jlabels added to the jpanel
+100 jlabels in an array created to store images
+jlabels containing images in an array added to jpanel
+jbutton created 
+jbutton added to jpanel
+jbutton created
+jbutton added to jpanel
+action listener bor jbuuton /press me/ is called
+new jframe created
+new jpanel created to show the output of press me button
+jpanel background color changed lo light blue
+jlabel created to hold output text
+jlabel created to hold output image
+both jalabels added to jpanel
+jpanel added to jframe
+action listener for play again called
+old frame is switched off
+new class object created
+tic function is called
+main frame created
+menubar created
+play again jmenu item added
+about jmenu item added
+exit jmenu item added
+jpanel created
+color of background changed to green
+image array list created and images stored
+100 jlabels created to add the text to jpanel
+100 jlabels added to the jpanel
+100 jlabels in an array created to store images
+jlabels containing images in an array added to jpanel
+jbutton created 
+jbutton added to jpanel
+jbutton created
+jbutton added to jpanel
+action listener bor jbuuton /press me/ is called
+new jframe created
+new jpanel created to show the output of press me button
+jpanel background color changed lo light blue
+jlabel created to hold output text
+jlabel created to hold output image
+both jalabels added to jpanel
+jpanel added to jframe
+action listener for exit is called
+main frame created
+menubar created
+play again jmenu item added
+about jmenu item added
+exit jmenu item added
+jpanel created
+color of background changed to green
+image array list created and images stored
+100 jlabels created to add the text to jpanel
+100 jlabels added to the jpanel
+100 jlabels in an array created to store images
+jlabels containing images in an array added to jpanel
+jbutton created 
+jbutton added to jpanel
+jbutton created
+jbutton added to jpanel
+action listener bor jbuuton /press me/ is called
+new jframe created
+new jpanel created to show the output of press me button
+jpanel background color changed lo light blue
+jlabel created to hold output text
+jlabel created to hold output image
+both jalabels added to jpanel
+jpanel added to jframe
+action listener for instruction is called
+new jframe is created 
+new jpanel is created to hold jlabels
+jlabel created
+jlabel added to jpanel
+jlabel created 
+jlabel added to jpanel
+jpanel added to frame
+action listener for about is called
+new jframe is created to add information about author
+new jlabet created to hold text
+jlabel added to jframe
+action listener for play again called
+old frame is switched off
+new class object created
+tic function is called
+main frame created
+menubar created
+play again jmenu item added
+about jmenu item added
+exit jmenu item added
+jpanel created
+color of background changed to green
+image array list created and images stored
+100 jlabels created to add the text to jpanel
+100 jlabels added to the jpanel
+100 jlabels in an array created to store images
+jlabels containing images in an array added to jpanel
+jbutton created 
+jbutton added to jpanel
+jbutton created
+jbutton added to jpanel
+action listener for exit is called
+Making panels
+Adding panels to frame
+Ok Button Clicked
+Player name received
+TextField and OkButton Removed
+HighScore button added
+Hi Mani!!! displayed
+GuessingGame started
+main frame created
+menubar created
+play again jmenu item added
+about jmenu item added
+exit jmenu item added
+jpanel created
+color of background changed to green
+image array list created and images stored
+100 jlabels created to add the text to jpanel
+100 jlabels added to the jpanel
+100 jlabels in an array created to store images
+jlabels containing images in an array added to jpanel
+jbutton created 
+jbutton added to jpanel
+jbutton created
+jbutton added to jpanel
+Making panels
+Adding panels to frame
+Ok Button Clicked
+Player name received
+TextField and OkButton Removed
+HighScore button added
+Hi Mani!!! displayed
+GuessingGame started
+main frame created
+menubar created
+play again jmenu item added
+about jmenu item added
+exit jmenu item added
+jpanel created
+color of background changed to green
+image array list created and images stored
+100 jlabels created to add the text to jpanel
+100 jlabels added to the jpanel
+100 jlabels in an array created to store images
+jlabels containing images in an array added to jpanel
+jbutton created 
+jbutton added to jpanel
+jbutton created
+jbutton added to jpanel
+Making panels
+Adding panels to frame
+Ok Button Clicked
+Player name received
+TextField and OkButton Removed
+HighScore button added
+Hi Mani!!! displayed
+GuessingGame started
+main frame created
+menubar created
+play again jmenu item added
+about jmenu item added
+exit jmenu item added
+jpanel created
+color of background changed to green
+image array list created and images stored
+100 jlabels created to add the text to jpanel
+100 jlabels added to the jpanel
+100 jlabels in an array created to store images
+jlabels containing images in an array added to jpanel
+jbutton created 
+jbutton added to jpanel
+jbutton created
+jbutton added to jpanel
+action listener bor jbuuton /press me/ is called
+new jframe created
+new jpanel created to show the output of press me button
+jpanel background color changed lo light blue
+jlabel created to hold output text
+jlabel created to hold output image
+both jalabels added to jpanel
+jpanel added to jframe
+action listener for play again called
+old frame is switched off
+new class object created
+tic function is called
+main frame created
+menubar created
+play again jmenu item added
+about jmenu item added
+exit jmenu item added
+jpanel created
+color of background changed to green
+image array list created and images stored
+100 jlabels created to add the text to jpanel
+100 jlabels added to the jpanel
+100 jlabels in an array created to store images
+jlabels containing images in an array added to jpanel
+jbutton created 
+jbutton added to jpanel
+jbutton created
+jbutton added to jpanel
+main frame created
+menubar created
+play again jmenu item added
+about jmenu item added
+exit jmenu item added
+jpanel created
+color of background changed to green
+image array list created and images stored
+100 jlabels created to add the text to jpanel
+100 jlabels added to the jpanel
+100 jlabels in an array created to store images
+jlabels containing images in an array added to jpanel
+jbutton created 
+jbutton added to jpanel
+jbutton created
+jbutton added to jpanel
+Making panels
+Adding panels to frame
+Ok Button Clicked
+Player name received
+TextField and OkButton Removed
+HighScore button added
+Hi Mani!!! displayed
+GuessingGame started
+main frame created
+menubar created
+play again jmenu item added
+about jmenu item added
+exit jmenu item added
+jpanel created
+color of background changed to green
+image array list created and images stored
+100 jlabels created to add the text to jpanel
+100 jlabels added to the jpanel
+100 jlabels in an array created to store images
+jlabels containing images in an array added to jpanel
+jbutton created 
+jbutton added to jpanel
+jbutton created
+jbutton added to jpanel
+action listener for play again called
+old frame is switched off
+new class object created
+tic function is called
+main frame created
+menubar created
+play again jmenu item added
+about jmenu item added
+exit jmenu item added
+jpanel created
+color of background changed to green
+image array list created and images stored
+100 jlabels created to add the text to jpanel
+100 jlabels added to the jpanel
+100 jlabels in an array created to store images
+jlabels containing images in an array added to jpanel
+jbutton created 
+jbutton added to jpanel
+jbutton created
+jbutton added to jpanel
+action listener for play again called
+old frame is switched off
+new class object created
+tic function is called
+main frame created
+menubar created
+play again jmenu item added
+about jmenu item added
+exit jmenu item added
+jpanel created
+color of background changed to green
+image array list created and images stored
+100 jlabels created to add the text to jpanel
+100 jlabels added to the jpanel
+100 jlabels in an array created to store images
+jlabels containing images in an array added to jpanel
+jbutton created 
+jbutton added to jpanel
+jbutton created
+jbutton added to jpanel
+action listener for play again called
+old frame is switched off
+new class object created
+tic function is called
+main frame created
+menubar created
+play again jmenu item added
+about jmenu item added
+exit jmenu item added
+jpanel created
+color of background changed to green
+image array list created and images stored
+100 jlabels created to add the text to jpanel
+100 jlabels added to the jpanel
+100 jlabels in an array created to store images
+jlabels containing images in an array added to jpanel
+jbutton created 
+jbutton added to jpanel
+jbutton created
+jbutton added to jpanel
+action listener bor jbuuton /press me/ is called
+new jframe created
+new jpanel created to show the output of press me button
+jpanel background color changed lo light blue
+jlabel created to hold output text
+jlabel created to hold output image
+both jalabels added to jpanel
+jpanel added to jframe
+Making panels
+Adding panels to frame
+Ok Button Clicked
+Player name received
+TextField and OkButton Removed
+HighScore button added
+Hi Mani!!! displayed
+GuessingGame started
+main frame created
+menubar created
+play again jmenu item added
+about jmenu item added
+exit jmenu item added
+jpanel created
+color of background changed to green
+image array list created and images stored
+100 jlabels created to add the text to jpanel
+100 jlabels added to the jpanel
+100 jlabels in an array created to store images
+jlabels containing images in an array added to jpanel
+jbutton created 
+jbutton added to jpanel
+jbutton created
+jbutton added to jpanel
+Frame making starts
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Button is pressed
+Button is pressed
+Button is pressed
+Button is pressed
+Button is pressed
+Player wins
+Game Ends
+Making panels
+Adding panels to frame
+Making panels
+Adding panels to frame
+Ok Button Clicked
+Player name received
+TextField and OkButton Removed
+HighScore button added
+Hi Mani!!! displayed
+TicTacToe game started
+Frame making starts
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Frame making starts
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Frame making starts
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Frame making starts
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Frame making starts
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Frame making starts
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Frame making starts
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Button is pressed
+Making panels
+Adding panels to frame
+Ok Button Clicked
+Player name received
+TextField and OkButton Removed
+HighScore button added
+Hi Mani!!! displayed
+TicTacToe game started
+Frame making starts
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Button is pressed
+Button is pressed
+Button is pressed
+Button is pressed
+Button is pressed
+Player wins
+Game Ends
+Making panels
+Adding panels to frame
+Ok Button Clicked
+Player name received
+TextField and OkButton Removed
+HighScore button added
+Hi Mani!!! displayed
+TicTacToe game started
+Frame making starts
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Button is pressed
+Button is pressed
+Button is pressed
+Button is pressed
+Button is pressed
+Player wins
+Game Ends
+Making panels
+Adding panels to frame
+Ok Button Clicked
+Player name received
+TextField and OkButton Removed
+HighScore button added
+Hi Mani!!! displayed
+TicTacToe game started
+Frame making starts
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Button is pressed
+Button is pressed
+Button is pressed
+Button is pressed
+Button is pressed
+Button is pressed
+Player wins
+Game Ends
+highScore button clicked
+Scores displayed
+Making panels
+Adding panels to frame
+Ok Button Clicked
+Player name received
+TextField and OkButton Removed
+HighScore button added
+Hi Mani!!! displayed
+highScore button clicked
+Scores displayed
+Making panels
+Adding panels to frame
+Ok Button Clicked
+Player name received
+TextField and OkButton Removed
+HighScore button added
+Hi Mani!!! displayed
+highScore button clicked
+Scores displayed
+Making panels
+Adding panels to frame
+Making panels
+Adding panels to frame
+Making panels
+Adding panels to frame
+Ok Button Clicked
+Player name received
+TextField and OkButton Removed
+HighScore button added
+Hi Mani!!! displayed
+Car Race game started
+Police_run:Game Started with initial Frame
+Police Run::First_frame:Creating first frame!!
+Making panels
+Adding panels to frame
+Ok Button Clicked
+Player name received
+TextField and OkButton Removed
+HighScore button added
+Hi Mani!!! displayed
+Car Race game started
+Police_run:Game Started with initial Frame
+Police Run::First_frame:Creating first frame!!
+Police-run::Main_frame:Started to create frame
+Police-run::Main_frame:Started to create Panels
+Police-run::Main_frame:Done with creating Panels
+Police-run::Main_frame:Done with creating frame
+Police-run::Main_frame:Entered to main part of the game
+Police Run::First_frame:User pressed Start game!!
+Police Run::Main_frame:Started Time!!
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police-run::Main_frame:Collided!!
+Police Run:Main_frame:Game Ends !!
+Police Run:Main_frame:Score =  !!9
+Police-run::Main_frame:Started to create frame
+Police-run::Main_frame:Started to create Panels
+Police-run::Main_frame:Done with creating Panels
+Police-run::Main_frame:Done with creating frame
+Police-run::Main_frame:Entered to main part of the game
+Police Run:Main_frame:User Wants to play again!!
+Police Run::Main_frame:Started Time!!
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Car Race game started
+Police_run:Game Started with initial Frame
+Police Run::First_frame:Creating first frame!!
+Police-run::Main_frame:Collided!!
+Police Run:Main_frame:Game Ends !!
+Police Run:Main_frame:Score =  !!6
+Police Run::First_frame:User pressed Start game!!
+Police-run::Main_frame:Started to create frame
+Police-run::Main_frame:Started to create Panels
+Police-run::Main_frame:Done with creating Panels
+Police-run::Main_frame:Done with creating frame
+Police-run::Main_frame:Entered to main part of the game
+Police Run::First_frame:User pressed Start game!!
+Police Run::Main_frame:Started Time!!
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Making panels
+Adding panels to frame
+Ok Button Clicked
+Player name received
+TextField and OkButton Removed
+HighScore button added
+Hi Mani!!! displayed
+highScore button clicked
+Scores displayed
+Police-run::Main_frame:Entered to main part of the game
+Police-run::Main_frame:Collided!!
+Police Run::Main_frame:Started Time!!
+Police Run:Main_frame:Game Ends !!
+Police Run:Main_frame:Score =  !!0
+Police Run::Main_frame:Started Time!!
+Making panels
+Adding panels to frame
+Ok Button Clicked
+Player name received
+TextField and OkButton Removed
+HighScore button added
+Hi ><,'"!@#$!!! displayed
+Mnemonics game started
+Random string generated is F17K
+Game started
+Response recieved is F17K
+Random string generated is F17K5
+Next question displayed
+total is 1
+Score is 1
+Response recieved is F17K5
+Random string generated is F17K5H
+Next question displayed
+total is 2
+Score is 2
+Response recieved is 12345'"'"yrgtg
+Random string generated is F17K5H1
+Next question displayed
+total is 3
+Score is 2
+Response recieved is 3456$%^
+Random string generated is F17K5H15
+Next question displayed
+total is 4
+Score is 2
+Response recieved is 23r4e45t
+Random string generated is F17K5H156
+Next question displayed
+total is 5
+Score is 2
+Making panels
+Adding panels to frame
+Ok Button Clicked
+Player name received
+TextField and OkButton Removed
+HighScore button added
+Hi /672!@#!!! displayed
+TicTacToe game started
+Frame making starts
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Button is pressed
+Button is pressed
+Button is pressed
+Button is pressed
+Button is pressed
+Button is pressed
+Player wins
+Game Ends
+Making panels
+Adding panels to frame
+Ok Button Clicked
+Player name received
+TextField and OkButton Removed
+HighScore button added
+Hi #!@%^//!!! displayed
+GuessingGame started
+main frame created
+menubar created
+play again jmenu item added
+about jmenu item added
+exit jmenu item added
+jpanel created
+color of background changed to green
+image array list created and images stored
+100 jlabels created to add the text to jpanel
+100 jlabels added to the jpanel
+100 jlabels in an array created to store images
+jlabels containing images in an array added to jpanel
+jbutton created 
+jbutton added to jpanel
+jbutton created
+jbutton added to jpanel
+TicTacToe game started
+Frame making starts
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Button is pressed
+Button is pressed
+Button is pressed
+Button is pressed
+Button is pressed
+Player wins
+Game Ends
+Making panels
+Adding panels to frame
+Ok Button Clicked
+Player name received
+TextField and OkButton Removed
+HighScore button added
+Hi Mani!!! displayed
+TicTacToe game started
+Frame making starts
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Button is pressed
+Button is pressed
+Button is pressed
+Button is pressed
+Button is pressed
+Button is pressed
+Player wins
+Game Ends
+highScore button clicked
+Scores displayed
+Making panels
+Adding panels to frame
+Ok Button Clicked
+Player name received
+TextField and OkButton Removed
+HighScore button added
+Hi Mani!!! displayed
+Car Race game started
+Police_run:Game Started with initial Frame
+Police Run::First_frame:Creating first frame!!
+Police-run::Main_frame:Started to create frame
+Police-run::Main_frame:Started to create Panels
+Police-run::Main_frame:Done with creating Panels
+Police-run::Main_frame:Done with creating frame
+Police-run::Main_frame:Entered to main part of the game
+Police Run::First_frame:User pressed Start game!!
+Police Run::Main_frame:Started Time!!
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police-run::Main_frame:Collided!!
+Police Run:Main_frame:Game Ends !!
+Police Run:Main_frame:Score =  !!7
+highScore button clicked
+Scores displayed
+GuessingGame started
+main frame created
+menubar created
+play again jmenu item added
+about jmenu item added
+exit jmenu item added
+jpanel created
+color of background changed to green
+image array list created and images stored
+100 jlabels created to add the text to jpanel
+100 jlabels added to the jpanel
+100 jlabels in an array created to store images
+jlabels containing images in an array added to jpanel
+jbutton created 
+jbutton added to jpanel
+jbutton created
+jbutton added to jpanel
+action listener bor jbuuton /press me/ is called
+new jframe created
+new jpanel created to show the output of press me button
+jpanel background color changed lo light blue
+jlabel created to hold output text
+jlabel created to hold output image
+both jalabels added to jpanel
+jpanel added to jframe
+action listener bor jbuuton /press me/ is called
+new jframe created
+new jpanel created to show the output of press me button
+jpanel background color changed lo light blue
+jlabel created to hold output text
+jlabel created to hold output image
+both jalabels added to jpanel
+jpanel added to jframe
+action listener for exit is called
+Making panels
+Adding panels to frame
+Ok Button Clicked
+Player name received
+TextField and OkButton Removed
+HighScore button added
+Hi Mani!!! displayed
+GuessingGame started
+main frame created
+menubar created
+play again jmenu item added
+about jmenu item added
+exit jmenu item added
+jpanel created
+color of background changed to green
+image array list created and images stored
+100 jlabels created to add the text to jpanel
+100 jlabels added to the jpanel
+100 jlabels in an array created to store images
+jlabels containing images in an array added to jpanel
+jbutton created 
+jbutton added to jpanel
+jbutton created
+jbutton added to jpanel
+action listener bor jbuuton /press me/ is called
+new jframe created
+new jpanel created to show the output of press me button
+jpanel background color changed lo light blue
+jlabel created to hold output text
+jlabel created to hold output image
+both jalabels added to jpanel
+jpanel added to jframe
+action listener for instruction is called
+new jframe is created 
+new jpanel is created to hold jlabels
+jlabel created
+jlabel added to jpanel
+jlabel created 
+jlabel added to jpanel
+jpanel added to frame
+action listener for play again called
+old frame is switched off
+new class object created
+tic function is called
+main frame created
+menubar created
+play again jmenu item added
+about jmenu item added
+exit jmenu item added
+jpanel created
+color of background changed to green
+image array list created and images stored
+100 jlabels created to add the text to jpanel
+100 jlabels added to the jpanel
+100 jlabels in an array created to store images
+jlabels containing images in an array added to jpanel
+jbutton created 
+jbutton added to jpanel
+jbutton created
+jbutton added to jpanel
+action listener bor jbuuton /press me/ is called
+new jframe created
+new jpanel created to show the output of press me button
+jpanel background color changed lo light blue
+jlabel created to hold output text
+jlabel created to hold output image
+both jalabels added to jpanel
+jpanel added to jframe
+action listener for play again called
+old frame is switched off
+new class object created
+tic function is called
+main frame created
+menubar created
+play again jmenu item added
+about jmenu item added
+exit jmenu item added
+jpanel created
+color of background changed to green
+image array list created and images stored
+100 jlabels created to add the text to jpanel
+100 jlabels added to the jpanel
+100 jlabels in an array created to store images
+jlabels containing images in an array added to jpanel
+jbutton created 
+jbutton added to jpanel
+jbutton created
+jbutton added to jpanel
+main frame created
+menubar created
+play again jmenu item added
+about jmenu item added
+exit jmenu item added
+jpanel created
+color of background changed to green
+image array list created and images stored
+100 jlabels created to add the text to jpanel
+100 jlabels added to the jpanel
+100 jlabels in an array created to store images
+jlabels containing images in an array added to jpanel
+jbutton created 
+jbutton added to jpanel
+jbutton created
+jbutton added to jpanel
+main frame created
+menubar created
+play again jmenu item added
+about jmenu item added
+exit jmenu item added
+jpanel created
+color of background changed to green
+image array list created and images stored
+100 jlabels created to add the text to jpanel
+100 jlabels added to the jpanel
+100 jlabels in an array created to store images
+jlabels containing images in an array added to jpanel
+jbutton created 
+jbutton added to jpanel
+jbutton created
+jbutton added to jpanel
+action listener for play again called
+old frame is switched off
+new class object created
+tic function is called
+main frame created
+menubar created
+play again jmenu item added
+about jmenu item added
+exit jmenu item added
+jpanel created
+color of background changed to green
+image array list created and images stored
+100 jlabels created to add the text to jpanel
+100 jlabels added to the jpanel
+100 jlabels in an array created to store images
+jlabels containing images in an array added to jpanel
+jbutton created 
+jbutton added to jpanel
+jbutton created
+jbutton added to jpanel
+action listener for play again called
+old frame is switched off
+new class object created
+tic function is called
+main frame created
+menubar created
+play again jmenu item added
+about jmenu item added
+exit jmenu item added
+jpanel created
+color of background changed to green
+image array list created and images stored
+100 jlabels created to add the text to jpanel
+100 jlabels added to the jpanel
+100 jlabels in an array created to store images
+jlabels containing images in an array added to jpanel
+jbutton created 
+jbutton added to jpanel
+jbutton created
+jbutton added to jpanel
+action listener for play again called
+old frame is switched off
+new class object created
+tic function is called
+main frame created
+menubar created
+play again jmenu item added
+about jmenu item added
+exit jmenu item added
+jpanel created
+color of background changed to green
+image array list created and images stored
+100 jlabels created to add the text to jpanel
+100 jlabels added to the jpanel
+100 jlabels in an array created to store images
+jlabels containing images in an array added to jpanel
+jbutton created 
+jbutton added to jpanel
+jbutton created
+jbutton added to jpanel
+action listener for play again called
+old frame is switched off
+new class object created
+tic function is called
+main frame created
+menubar created
+play again jmenu item added
+about jmenu item added
+exit jmenu item added
+jpanel created
+color of background changed to green
+image array list created and images stored
+100 jlabels created to add the text to jpanel
+100 jlabels added to the jpanel
+100 jlabels in an array created to store images
+jlabels containing images in an array added to jpanel
+jbutton created 
+jbutton added to jpanel
+jbutton created
+jbutton added to jpanel
+Wed Nov 14 15:53:45 IST 2012
+Making panels
+Adding panels to frame
+Wed Nov 14 15:54:24 IST 2012
+Making panels
+Adding panels to frame
+Ok Button Clicked
+Player name received
+TextField and OkButton Removed
+HighScore button added
+Hi Mani!!! displayed
+highScore button clicked
+Scores displayed
+Wed Nov 14 15:55:53 IST 2012
+Making panels
+Adding panels to frame
+Ok Button Clicked
+Player name received
+TextField and OkButton Removed
+HighScore button added
+Hi Mani!!! displayed
+highScore button clicked
+Scores displayed
+Wed Nov 14 15:57:11 IST 2012
+Making panels
+Adding panels to frame
+Ok Button Clicked
+Player name received
+TextField and OkButton Removed
+HighScore button added
+Hi Mani!!! displayed
+Car Race game started
+Police_run:Game Started with initial Frame
+Police Run::First_frame:Creating first frame!!
+Police-run::Main_frame:Started to create frame
+Police-run::Main_frame:Started to create Panels
+Police-run::Main_frame:Done with creating Panels
+Police-run::Main_frame:Done with creating frame
+Police-run::Main_frame:Entered to main part of the game
+Police Run::First_frame:User pressed Start game!!
+Police Run::Main_frame:Started Time!!
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police-run::Main_frame:Collided!!
+Police Run:Main_frame:Game Ends !!
+Police Run:Main_frame:Score =  !!13
+Police-run::Main_frame:Started to create frame
+Police-run::Main_frame:Started to create Panels
+Police-run::Main_frame:Done with creating Panels
+Police-run::Main_frame:Done with creating frame
+Police-run::Main_frame:Entered to main part of the game
+Police Run::Main_frame:Started Time!!
+Police Run:Main_frame:User Wants to play again!!
+Wed Nov 14 16:05:19 IST 2012
+Making panels
+Adding panels to frame
+Ok Button Clicked
+Player name received
+TextField and OkButton Removed
+HighScore button added
+Hi Mani!!! displayed
+Game1 started
+Started
+Addition Selected
+Operation +
+Correct answer
+Correct Count is 0
+Wed Nov 14 16:06:01 IST 2012
+Making panels
+Adding panels to frame
+Ok Button Clicked
+Player name received
+TextField and OkButton Removed
+HighScore button added
+Hi Mani!!! displayed
+Mnemonics game started
+Random string generated is LU3B
+Game started
+Game stopped
+Hangman game started
+TicTacToe game started
+Frame making starts
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+GuessingGame started
+main frame created
+menubar created
+play again jmenu item added
+about jmenu item added
+exit jmenu item added
+jpanel created
+color of background changed to green
+image array list created and images stored
+100 jlabels created to add the text to jpanel
+100 jlabels added to the jpanel
+100 jlabels in an array created to store images
+jlabels containing images in an array added to jpanel
+jbutton created 
+jbutton added to jpanel
+jbutton created
+jbutton added to jpanel
+action listener bor jbuuton /press me/ is called
+new jframe created
+new jpanel created to show the output of press me button
+jpanel background color changed lo light blue
+jlabel created to hold output text
+jlabel created to hold output image
+both jalabels added to jpanel
+jpanel added to jframe
+action listener for instruction is called
+new jframe is created 
+new jpanel is created to hold jlabels
+jlabel created
+jlabel added to jpanel
+jlabel created 
+jlabel added to jpanel
+jpanel added to frame
+action listener for about is called
+new jframe is created to add information about author
+new jlabet created to hold text
+jlabel added to jframe
+action listener for exit is called
+Wed Nov 14 16:09:20 IST 2012
+Making panels
+Adding panels to frame
+Ok Button Clicked
+Player name received
+TextField and OkButton Removed
+HighScore button added
+Hi Mani!!! displayed
+GuessingGame started
+main frame created
+menubar created
+play again jmenu item added
+about jmenu item added
+exit jmenu item added
+jpanel created
+color of background changed to green
+image array list created and images stored
+100 jlabels created to add the text to jpanel
+100 jlabels added to the jpanel
+100 jlabels in an array created to store images
+jlabels containing images in an array added to jpanel
+jbutton created 
+jbutton added to jpanel
+jbutton created
+jbutton added to jpanel
+action listener for exit is called
+working
+Wed Nov 14 16:22:08 IST 2012
+Making panels
+Adding panels to frame
+Ok Button Clicked
+Player name received
+TextField and OkButton Removed
+HighScore button added
+Hi Mani!!! displayed
+Wed Nov 14 16:25:16 IST 2012
+Making panels
+Adding panels to frame
+Ok Button Clicked
+Player name received
+TextField and OkButton Removed
+HighScore button added
+Hi myself!!! displayed
+highScore button clicked
+Scores displayed
+GuessingGame started
+main frame created
+menubar created
+play again jmenu item added
+about jmenu item added
+exit jmenu item added
+jpanel created
+color of background changed to green
+image array list created and images stored
+100 jlabels created to add the text to jpanel
+100 jlabels added to the jpanel
+100 jlabels in an array created to store images
+jlabels containing images in an array added to jpanel
+jbutton created 
+jbutton added to jpanel
+jbutton created
+jbutton added to jpanel
+action listener for instruction is called
+new jframe is created 
+new jpanel is created to hold jlabels
+jlabel created
+jlabel added to jpanel
+jlabel created 
+jlabel added to jpanel
+jpanel added to frame
+action listener bor jbuuton /press me/ is called
+new jframe created
+new jpanel created to show the output of press me button
+jpanel background color changed lo light blue
+jlabel created to hold output text
+jlabel created to hold output image
+both jalabels added to jpanel
+jpanel added to jframe
+action listener bor jbuuton /press me/ is called
+new jframe created
+new jpanel created to show the output of press me button
+jpanel background color changed lo light blue
+jlabel created to hold output text
+jlabel created to hold output image
+both jalabels added to jpanel
+jpanel added to jframe
+action listener bor jbuuton /press me/ is called
+new jframe created
+new jpanel created to show the output of press me button
+jpanel background color changed lo light blue
+jlabel created to hold output text
+jlabel created to hold output image
+both jalabels added to jpanel
+jpanel added to jframe
+action listener bor jbuuton /press me/ is called
+new jframe created
+new jpanel created to show the output of press me button
+jpanel background color changed lo light blue
+jlabel created to hold output text
+jlabel created to hold output image
+both jalabels added to jpanel
+jpanel added to jframe
+action listener for play again called
+old frame is switched off
+new class object created
+tic function is called
+main frame created
+menubar created
+play again jmenu item added
+about jmenu item added
+exit jmenu item added
+jpanel created
+color of background changed to green
+image array list created and images stored
+100 jlabels created to add the text to jpanel
+100 jlabels added to the jpanel
+100 jlabels in an array created to store images
+jlabels containing images in an array added to jpanel
+jbutton created 
+jbutton added to jpanel
+jbutton created
+jbutton added to jpanel
+action listener bor jbuuton /press me/ is called
+new jframe created
+new jpanel created to show the output of press me button
+jpanel background color changed lo light blue
+jlabel created to hold output text
+jlabel created to hold output image
+both jalabels added to jpanel
+jpanel added to jframe
+action listener for exit is called
+working
+Mnemonics game started
+Random string generated is JCB1
+Game started
+Response recieved is 
+Random string generated is JCB1F
+Next question displayed
+total is 1
+Score is 0
+Response recieved is 
+Random string generated is JCB1FV
+Next question displayed
+total is 2
+Score is 0
+Response recieved is 
+Random string generated is JCB1FVA
+Next question displayed
+total is 3
+Score is 0
+Response recieved is 
+Random string generated is JCB1FVA5
+Next question displayed
+total is 4
+Score is 0
+Response recieved is 
+Random string generated is JCB1FVA5G
+Next question displayed
+total is 5
+Score is 0
+Score stored
+Game Over
+Car Race game started
+Police_run:Game Started with initial Frame
+Police Run::First_frame:Creating first frame!!
+Police-run::Main_frame:Started to create frame
+Police-run::Main_frame:Started to create Panels
+Police-run::Main_frame:Done with creating Panels
+Police-run::Main_frame:Done with creating frame
+Police-run::Main_frame:Entered to main part of the game
+Police Run::First_frame:User pressed Start game!!
+Police Run::Main_frame:Started Time!!
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police-run::Main_frame:Collided!!
+Police Run:Main_frame:Game Ends !!
+Police Run:Main_frame:Score =  !!11
+Police-run::Main_frame:Started to create frame
+Police-run::Main_frame:Started to create Panels
+Police-run::Main_frame:Done with creating Panels
+Police-run::Main_frame:Done with creating frame
+Police-run::Main_frame:Entered to main part of the game
+Police Run:Main_frame:User Wants to play again!!
+Police Run::Main_frame:Started Time!!
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police-run::Main_frame:Collided!!
+Police Run:Main_frame:Game Ends !!
+Police Run:Main_frame:Score =  !!7
+TicTacToe game started
+Frame making starts
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Button is pressed
+Button is pressed
+Button is pressed
+Button is pressed
+Button is pressed
+Button is pressed
+Button is pressed
+Player wins
+Game Ends
+Hangman game started
+GuessingGame started
+main frame created
+menubar created
+play again jmenu item added
+about jmenu item added
+exit jmenu item added
+jpanel created
+color of background changed to green
+image array list created and images stored
+100 jlabels created to add the text to jpanel
+100 jlabels added to the jpanel
+100 jlabels in an array created to store images
+jlabels containing images in an array added to jpanel
+jbutton created 
+jbutton added to jpanel
+jbutton created
+jbutton added to jpanel
+action listener bor jbuuton /press me/ is called
+new jframe created
+new jpanel created to show the output of press me button
+jpanel background color changed lo light blue
+jlabel created to hold output text
+jlabel created to hold output image
+both jalabels added to jpanel
+jpanel added to jframe
+action listener bor jbuuton /press me/ is called
+new jframe created
+new jpanel created to show the output of press me button
+jpanel background color changed lo light blue
+jlabel created to hold output text
+jlabel created to hold output image
+both jalabels added to jpanel
+jpanel added to jframe
+action listener bor jbuuton /press me/ is called
+new jframe created
+new jpanel created to show the output of press me button
+jpanel background color changed lo light blue
+jlabel created to hold output text
+jlabel created to hold output image
+both jalabels added to jpanel
+jpanel added to jframe
+action listener for play again called
+old frame is switched off
+new class object created
+tic function is called
+main frame created
+menubar created
+play again jmenu item added
+about jmenu item added
+exit jmenu item added
+jpanel created
+color of background changed to green
+image array list created and images stored
+100 jlabels created to add the text to jpanel
+100 jlabels added to the jpanel
+100 jlabels in an array created to store images
+jlabels containing images in an array added to jpanel
+jbutton created 
+jbutton added to jpanel
+jbutton created
+jbutton added to jpanel
+action listener bor jbuuton /press me/ is called
+new jframe created
+new jpanel created to show the output of press me button
+jpanel background color changed lo light blue
+jlabel created to hold output text
+jlabel created to hold output image
+both jalabels added to jpanel
+jpanel added to jframe
+action listener for exit is called
+working
+TicTacToe game started
+Frame making starts
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Button is pressed
+Button is pressed
+Button is pressed
+Button is pressed
+Button is pressed
+Player wins
+Game Ends
+TicTacToe game started
+Frame making starts
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Car Race game started
+Police_run:Game Started with initial Frame
+Police Run::First_frame:Creating first frame!!
+Police-run::Main_frame:Started to create frame
+Police-run::Main_frame:Started to create Panels
+Police-run::Main_frame:Done with creating Panels
+Police-run::Main_frame:Done with creating frame
+Police-run::Main_frame:Entered to main part of the game
+Police Run::First_frame:User pressed Start game!!
+Police Run::Main_frame:Started Time!!
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 15 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 15 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 15 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 15 secs and creating a obstacle
+Police-run::Main_frame:Collided!!
+Police Run:Main_frame:Game Ends !!
+Police Run:Main_frame:Score =  !!18
+Police-run::Main_frame:Started to create frame
+Police-run::Main_frame:Started to create Panels
+Police-run::Main_frame:Done with creating Panels
+Police-run::Main_frame:Done with creating frame
+Police-run::Main_frame:Entered to main part of the game
+Police Run:Main_frame:User Wants to play again!!
+Police Run::Main_frame:Started Time!!
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police-run::Main_frame:Collided!!
+Police Run:Main_frame:Game Ends !!
+Police Run:Main_frame:Score =  !!10
+highScore button clicked
+Scores displayed
+Wed Nov 14 16:45:06 IST 2012
+Making panels
+Adding panels to frame
+Ok Button Clicked
+Player name received
+TextField and OkButton Removed
+HighScore button added
+Hi Mani!!! displayed
+Game1 started
+Wed Nov 14 16:45:25 IST 2012
+Making panels
+Adding panels to frame
+Ok Button Clicked
+Player name received
+TextField and OkButton Removed
+HighScore button added
+Hi wer!!! displayed
+Game1 started
+Mnemonics game started
+Random string generated is PL2J
+Game started
+Game1 started
+Mnemonics game started
+Game1 started
+GuessingGame started
+main frame created
+menubar created
+play again jmenu item added
+about jmenu item added
+exit jmenu item added
+jpanel created
+color of background changed to green
+image array list created and images stored
+100 jlabels created to add the text to jpanel
+100 jlabels added to the jpanel
+100 jlabels in an array created to store images
+jlabels containing images in an array added to jpanel
+jbutton created 
+jbutton added to jpanel
+jbutton created
+jbutton added to jpanel
+Hangman game started
+Wed Nov 14 17:38:54 IST 2012
+Making panels
+Adding panels to frame
+Ok Button Clicked
+Player name received
+TextField and OkButton Removed
+HighScore button added
+Hi mani!!! displayed
+GuessingGame started
+main frame created
+menubar created
+play again jmenu item added
+about jmenu item added
+exit jmenu item added
+jpanel created
+color of background changed to green
+image array list created and images stored
+100 jlabels created to add the text to jpanel
+100 jlabels added to the jpanel
+100 jlabels in an array created to store images
+jlabels containing images in an array added to jpanel
+jbutton created 
+jbutton added to jpanel
+jbutton created
+jbutton added to jpanel
+Car Race game started
+Police_run:Game Started with initial Frame
+Police Run::First_frame:Creating first frame!!
+Police_run:Game Started with initial Frame
+Police Run::First_frame:Creating first frame!!
+Police_run:Game Started with initial Frame
+Police Run::First_frame:Creating first frame!!
+Police_run:Game Started with initial Frame
+Police Run::First_frame:Creating first frame!!
+Police_run:Game Started with initial Frame
+Police Run::First_frame:Creating first frame!!
+Wed Nov 14 17:44:59 IST 2012
+Making panels
+Adding panels to frame
+Ok Button Clicked
+Player name received
+TextField and OkButton Removed
+HighScore button added
+Hi SHIB!!! displayed
+Car Race game started
+Police_run:Game Started with initial Frame
+Police Run::First_frame:Creating first frame!!
+Police-run::Main_frame:Started to create frame
+Police-run::Main_frame:Started to create Panels
+Police-run::Main_frame:Done with creating Panels
+Police-run::Main_frame:Done with creating frame
+Police-run::Main_frame:Entered to main part of the game
+Police Run::First_frame:User pressed Start game!!
+Police Run::Main_frame:Started Time!!
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police-run::Main_frame:Collided!!
+Police Run:Main_frame:Game Ends !!
+Police Run:Main_frame:Score =  !!7
+Wed Nov 14 17:45:58 IST 2012
+Making panels
+Adding panels to frame
+Ok Button Clicked
+Player name received
+TextField and OkButton Removed
+HighScore button added
+Hi SHIVAM!!! displayed
+Car Race game started
+Police_run:Game Started with initial Frame
+Police Run::First_frame:Creating first frame!!
+Police-run::Main_frame:Started to create frame
+Police-run::Main_frame:Started to create Panels
+Police-run::Main_frame:Done with creating Panels
+Police-run::Main_frame:Done with creating frame
+Police-run::Main_frame:Entered to main part of the game
+Police Run::First_frame:User pressed Start game!!
+Police Run::Main_frame:Started Time!!
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 15 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 15 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police Run::Main_frame:Getting Random number!!
+Police Run::Main_frame:Getting Random number!!
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 15 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 15 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 15 secs and creating a obstacle
+Police-run::Main_frame:Collided!!
+Police Run:Main_frame:Game Ends !!
+Police Run:Main_frame:Score =  !!19
+GuessingGame started
+main frame created
+menubar created
+play again jmenu item added
+about jmenu item added
+exit jmenu item added
+jpanel created
+color of background changed to green
+image array list created and images stored
+100 jlabels created to add the text to jpanel
+100 jlabels added to the jpanel
+100 jlabels in an array created to store images
+jlabels containing images in an array added to jpanel
+jbutton created 
+jbutton added to jpanel
+jbutton created
+jbutton added to jpanel
+action listener bor jbuuton /press me/ is called
+new jframe created
+new jpanel created to show the output of press me button
+jpanel background color changed lo light blue
+jlabel created to hold output text
+jlabel created to hold output image
+both jalabels added to jpanel
+jpanel added to jframe
+action listener for play again called
+old frame is switched off
+new class object created
+tic function is called
+main frame created
+menubar created
+play again jmenu item added
+about jmenu item added
+exit jmenu item added
+jpanel created
+color of background changed to green
+image array list created and images stored
+100 jlabels created to add the text to jpanel
+100 jlabels added to the jpanel
+100 jlabels in an array created to store images
+jlabels containing images in an array added to jpanel
+jbutton created 
+jbutton added to jpanel
+jbutton created
+jbutton added to jpanel
+action listener for play again called
+old frame is switched off
+new class object created
+tic function is called
+main frame created
+menubar created
+play again jmenu item added
+about jmenu item added
+exit jmenu item added
+jpanel created
+color of background changed to green
+image array list created and images stored
+100 jlabels created to add the text to jpanel
+100 jlabels added to the jpanel
+100 jlabels in an array created to store images
+jlabels containing images in an array added to jpanel
+jbutton created 
+jbutton added to jpanel
+jbutton created
+jbutton added to jpanel
+action listener for play again called
+old frame is switched off
+new class object created
+tic function is called
+main frame created
+menubar created
+play again jmenu item added
+about jmenu item added
+exit jmenu item added
+jpanel created
+color of background changed to green
+image array list created and images stored
+100 jlabels created to add the text to jpanel
+100 jlabels added to the jpanel
+100 jlabels in an array created to store images
+jlabels containing images in an array added to jpanel
+jbutton created 
+jbutton added to jpanel
+jbutton created
+jbutton added to jpanel
+action listener for instruction is called
+new jframe is created 
+new jpanel is created to hold jlabels
+jlabel created
+jlabel added to jpanel
+jlabel created 
+jlabel added to jpanel
+jpanel added to frame
+action listener bor jbuuton /press me/ is called
+new jframe created
+new jpanel created to show the output of press me button
+jpanel background color changed lo light blue
+jlabel created to hold output text
+jlabel created to hold output image
+both jalabels added to jpanel
+jpanel added to jframe
+action listener for about is called
+new jframe is created to add information about author
+new jlabet created to hold text
+jlabel added to jframe
+action listener for exit is called
+working
+Mnemonics game started
+Random string generated is B0E8
+Game started
+Response recieved is BOE8
+Random string generated is B0E8U
+Next question displayed
+total is 1
+Score is 0
+Response recieved is BOE82
+Random string generated is B0E8UG
+Next question displayed
+total is 2
+Score is 0
+Response recieved is 
+Random string generated is B0E8UGV
+Next question displayed
+total is 3
+Score is 0
+Response recieved is 
+Random string generated is B0E8UGVT
+Next question displayed
+total is 4
+Score is 0
+Game stopped
+Game1 started
+Started
+Addition Selected
+Operation +
+Correct answer
+Correct Count is 0
+Frame making starts
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Button is pressed
+Button is pressed
+Button is pressed
+Button is pressed
+Button is pressed
+Button is pressed
+Player wins
+Game Ends
+Wed Nov 14 17:55:42 IST 2012
+Making panels
+Adding panels to frame
+Ok Button Clicked
+Player name received
+TextField and OkButton Removed
+HighScore button added
+Hi ghgh!!! displayed
+highScore button clicked
+Scores displayed
+Wed Nov 14 17:56:55 IST 2012
+Making panels
+Adding panels to frame
+Ok Button Clicked
+Player name received
+TextField and OkButton Removed
+HighScore button added
+Hi ghgh!!! displayed
+highScore button clicked
+Scores displayed
+main frame created
+menubar created
+play again jmenu item added
+about jmenu item added
+exit jmenu item added
+jpanel created
+color of background changed to green
+image array list created and images stored
+100 jlabels created to add the text to jpanel
+100 jlabels added to the jpanel
+100 jlabels in an array created to store images
+jlabels containing images in an array added to jpanel
+jbutton created 
+jbutton added to jpanel
+jbutton created
+jbutton added to jpanel
+action listener bor jbuuton /press me/ is called
+new jframe created
+new jpanel created to show the output of press me button
+jpanel background color changed lo light blue
+jlabel created to hold output text
+jlabel created to hold output image
+both jalabels added to jpanel
+jpanel added to jframe
+action listener for instruction is called
+new jframe is created 
+new jpanel is created to hold jlabels
+jlabel created
+jlabel added to jpanel
+jlabel created 
+jlabel added to jpanel
+jpanel added to frame
+action listener for exit is called
+working
+main frame created
+menubar created
+play again jmenu item added
+about jmenu item added
+exit jmenu item added
+jpanel created
+color of background changed to green
+image array list created and images stored
+100 jlabels created to add the text to jpanel
+100 jlabels added to the jpanel
+100 jlabels in an array created to store images
+jlabels containing images in an array added to jpanel
+jbutton created 
+jbutton added to jpanel
+jbutton created
+jbutton added to jpanel
+action listener bor jbuuton /press me/ is called
+new jframe created
+new jpanel created to show the output of press me button
+jpanel background color changed lo light blue
+jlabel created to hold output text
+jlabel created to hold output image
+both jalabels added to jpanel
+jpanel added to jframe
+main frame created
+menubar created
+play again jmenu item added
+about jmenu item added
+exit jmenu item added
+jpanel created
+color of background changed to green
+image array list created and images stored
+100 jlabels created to add the text to jpanel
+100 jlabels added to the jpanel
+100 jlabels in an array created to store images
+jlabels containing images in an array added to jpanel
+jbutton created 
+jbutton added to jpanel
+jbutton created
+jbutton added to jpanel
+action listener bor jbuuton /press me/ is called
+new jframe created
+new jpanel created to show the output of press me button
+jpanel background color changed lo light blue
+jlabel created to hold output text
+jlabel created to hold output image
+both jalabels added to jpanel
+jpanel added to jframe
+action listener for instruction is called
+new jframe is created 
+new jpanel is created to hold jlabels
+jlabel created
+jlabel added to jpanel
+jlabel created 
+jlabel added to jpanel
+jpanel added to frame
+action listener for play again called
+old frame is switched off
+new class object created
+tic function is called
+main frame created
+menubar created
+play again jmenu item added
+about jmenu item added
+exit jmenu item added
+jpanel created
+color of background changed to green
+image array list created and images stored
+100 jlabels created to add the text to jpanel
+100 jlabels added to the jpanel
+100 jlabels in an array created to store images
+jlabels containing images in an array added to jpanel
+jbutton created 
+jbutton added to jpanel
+jbutton created
+jbutton added to jpanel
+action listener bor jbuuton /press me/ is called
+new jframe created
+new jpanel created to show the output of press me button
+jpanel background color changed lo light blue
+jlabel created to hold output text
+jlabel created to hold output image
+both jalabels added to jpanel
+jpanel added to jframe
+main frame created
+menubar created
+play again jmenu item added
+about jmenu item added
+exit jmenu item added
+jpanel created
+color of background changed to green
+image array list created and images stored
+100 jlabels created to add the text to jpanel
+100 jlabels added to the jpanel
+100 jlabels in an array created to store images
+jlabels containing images in an array added to jpanel
+jbutton created 
+jbutton added to jpanel
+jbutton created
+jbutton added to jpanel
+action listener bor jbuuton /press me/ is called
+new jframe created
+new jpanel created to show the output of press me button
+jpanel background color changed lo light blue
+jlabel created to hold output text
+jlabel created to hold output image
+both jalabels added to jpanel
+jpanel added to jframe
+action listener for instruction is called
+new jframe is created 
+new jpanel is created to hold jlabels
+jlabel created
+jlabel added to jpanel
+jlabel created 
+jlabel added to jpanel
+jpanel added to frame
+action listener for exit is called
+working
+Wed Nov 14 18:22:39 IST 2012
+Making panels
+Adding panels to frame
+Ok Button Clicked
+Player name received
+TextField and OkButton Removed
+HighScore button added
+Hi tin tin!!! displayed
+Game1 started
+Started
+Addition Selected
+Operation +
+Correct answer
+Correct Count is 0
+Input is 9
+Addition Selected
+Operation +
+Correct answer
+Correct Count is 1
+Input is 4
+Addition Selected
+Operation +
+Correct answer
+Correct Count is 2
+Input is 10
+Addition Selected
+Operation +
+Correct answer
+Correct Count is 3
+Input is 6
+Addition Selected
+Operation +
+Correct answer
+Correct Count is 4
+Input is 6
+Addition Selected
+Operation +
+Wrong Answer
+Correct Count is 4
+Input is 6
+Addition Selected
+Operation +
+Wrong Answer
+Correct Count is 4
+Input is 13
+Operation -
+Correct answer
+Correct Count is 5
+Input is 13
+Operation -
+Wrong Answer
+Correct Count is 5
+Input is 13
+Operation -
+Wrong Answer
+Correct Count is 5
+Input is 13
+Operation -
+Wrong Answer
+Correct Count is 5
+Input is 13
+Operation -
+Wrong Answer
+Correct Count is 5
+Input is 13
+Operation -
+Wrong Answer
+Correct Count is 5
+Input is 1
+Operation -
+Correct answer
+Correct Count is 6
+Input is 1
+Operation -
+Wrong Answer
+Correct Count is 6
+Input is 1
+Operation -
+Wrong Answer
+Correct Count is 6
+Input is 1
+Operation -
+Wrong Answer
+Correct Count is 6
+Input is 1
+Input is 1
+Input is 1
+Input is 1
+Input is 1
+Input is 1
+Input is 1
+Input is 1
+Input is -8
+Input is -8
+Input is -8
+Input is -8
+Input is -8
+Input is -8
+Input is -8
+Input is -8
+Input is -8
+Input is -8
+Input is -8
+Input is -8
+Input is -8
+Input is -8
+Input is -8
+Input is -8
+Input is -8
+Input is -8
+Input is -8
+Input is -8
+Input is -8
+Input is -8
+Input is -8
+Input is -8
+Mnemonics game started
+Random string generated is Y693
+Game started
+Response recieved is y693
+Random string generated is Y693L
+Next question displayed
+total is 1
+Score is 0
+Response recieved is Y693L
+Random string generated is Y693LQ
+Next question displayed
+total is 2
+Score is 1
+Response recieved is Y693LQ
+Random string generated is Y693LQ6
+Next question displayed
+total is 3
+Score is 2
+Game stopped
+Car Race game started
+Police_run:Game Started with initial Frame
+Police Run::First_frame:Creating first frame!!
+Wed Nov 14 18:25:10 IST 2012
+Making panels
+Adding panels to frame
+Ok Button Clicked
+Player name received
+TextField and OkButton Removed
+HighScore button added
+Hi RAHUL!!! displayed
+Car Race game started
+Police_run:Game Started with initial Frame
+Police Run::First_frame:Creating first frame!!
+Wed Nov 14 18:26:42 IST 2012
+Making panels
+Adding panels to frame
+Ok Button Clicked
+Player name received
+TextField and OkButton Removed
+HighScore button added
+Hi df!!! displayed
+Car Race game started
+Police_run:Game Started with initial Frame
+Police Run::First_frame:Creating first frame!!
+Police-run::Main_frame:Started to create frame
+Police-run::Main_frame:Started to create Panels
+Police-run::Main_frame:Done with creating Panels
+Police-run::Main_frame:Done with creating frame
+Police-run::Main_frame:Entered to main part of the game
+Police Run::First_frame:User pressed Start game!!
+Police Run::Main_frame:Started Time!!
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police-run::Main_frame:Collided!!
+Police Run:Main_frame:Game Ends !!
+Police Run:Main_frame:Score =  !!10
+Police-run::Main_frame:Started to create frame
+Police-run::Main_frame:Started to create Panels
+Police-run::Main_frame:Done with creating Panels
+Police-run::Main_frame:Done with creating frame
+Police-run::Main_frame:Entered to main part of the game
+Police Run::Main_frame:Started Time!!
+Police Run:Main_frame:User Wants to play again!!
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 15 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 15 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police Run::Main_frame:Getting Random number!!
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 15 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 15 secs and creating a obstacle
+Police-run::Main_frame:Collided!!
+Police Run:Main_frame:Game Ends !!
+Police Run:Main_frame:Score =  !!18
+Hangman game started
+TicTacToe game started
+Frame making starts
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Buttons Added
+Button is pressed
+Button is pressed
+Button is pressed
+Button is pressed
+Button is pressed
+Button is pressed
+Button is pressed
+Button is pressed
+Button is pressed
+Player wins
+Game Ends
+GuessingGame started
+main frame created
+menubar created
+play again jmenu item added
+about jmenu item added
+exit jmenu item added
+jpanel created
+color of background changed to green
+image array list created and images stored
+100 jlabels created to add the text to jpanel
+100 jlabels added to the jpanel
+100 jlabels in an array created to store images
+jlabels containing images in an array added to jpanel
+jbutton created 
+jbutton added to jpanel
+jbutton created
+jbutton added to jpanel
+action listener for instruction is called
+new jframe is created 
+new jpanel is created to hold jlabels
+jlabel created
+jlabel added to jpanel
+jlabel created 
+jlabel added to jpanel
+jpanel added to frame
+action listener bor jbuuton /press me/ is called
+new jframe created
+new jpanel created to show the output of press me button
+jpanel background color changed lo light blue
+jlabel created to hold output text
+jlabel created to hold output image
+both jalabels added to jpanel
+jpanel added to jframe
+Car Race game started
+Police_run:Game Started with initial Frame
+Police Run::First_frame:Creating first frame!!
+Police-run::Main_frame:Started to create frame
+Police-run::Main_frame:Started to create Panels
+Police-run::Main_frame:Done with creating Panels
+Police-run::Main_frame:Done with creating frame
+Police-run::Main_frame:Entered to main part of the game
+Police Run::First_frame:User pressed Start game!!
+Police Run::Main_frame:Started Time!!
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police Run::Main_frame:Getting Random number!!
+Police-run::Main_frame:More than 5 secs and creating a obstacle
+Police-run::Main_frame:Collided!!
+Police Run:Main_frame:Game Ends !!
+Police Run:Main_frame:Score =  !!9
+Thu Nov 15 17:46:22 IST 2012
+Making panels
+Adding panels to frame
+Ok Button Clicked
+Player name received
+TextField and OkButton Removed
+HighScore button added
+Hi mani!!! displayed
+GuessingGame started
+main frame created
+menubar created
+play again jmenu item added
+about jmenu item added
+exit jmenu item added
+jpanel created
+color of background changed to green
+image array list created and images stored
+100 jlabels created to add the text to jpanel
+100 jlabels added to the jpanel
+100 jlabels in an array created to store images
+jlabels containing images in an array added to jpanel
+jbutton created 
+jbutton added to jpanel
+jbutton created
+jbutton added to jpanel
+action listener for play again called
+old frame is switched off
+new class object created
+tic function is called
+main frame created
+menubar created
+play again jmenu item added
+about jmenu item added
+exit jmenu item added
+jpanel created
+color of background changed to green
+image array list created and images stored
+100 jlabels created to add the text to jpanel
+100 jlabels added to the jpanel
+100 jlabels in an array created to store images
+jlabels containing images in an array added to jpanel
+jbutton created 
+jbutton added to jpanel
+jbutton created
+jbutton added to jpanel
+action listener for play again called
+old frame is switched off
+new class object created
+tic function is called
+main frame created
+menubar created
+play again jmenu item added
+about jmenu item added
+exit jmenu item added
+jpanel created
+color of background changed to green
+image array list created and images stored
+100 jlabels created to add the text to jpanel
+100 jlabels added to the jpanel
+100 jlabels in an array created to store images
+jlabels containing images in an array added to jpanel
+jbutton created 
+jbutton added to jpanel
+jbutton created
+jbutton added to jpanel
+action listener for play again called
+old frame is switched off
+new class object created
+tic function is called
+main frame created
+menubar created
+play again jmenu item added
+about jmenu item added
+exit jmenu item added
+jpanel created
+color of background changed to green
+image array list created and images stored
+100 jlabels created to add the text to jpanel
+100 jlabels added to the jpanel
+100 jlabels in an array created to store images
+jlabels containing images in an array added to jpanel
+jbutton created 
+jbutton added to jpanel
+jbutton created
+jbutton added to jpanel
+action listener for play again called
+old frame is switched off
+new class object created
+tic function is called
+main frame created
+menubar created
+play again jmenu item added
+about jmenu item added
+exit jmenu item added
+jpanel created
+color of background changed to green
+image array list created and images stored
+100 jlabels created to add the text to jpanel
+100 jlabels added to the jpanel
+100 jlabels in an array created to store images
+jlabels containing images in an array added to jpanel
+jbutton created 
+jbutton added to jpanel
+jbutton created
+jbutton added to jpanel
+action listener for exit is called
+working
+main frame created
+menubar created
+play again jmenu item added
+about jmenu item added
+exit jmenu item added
+jpanel created
+color of background changed to green
+image array list created and images stored
+100 jlabels created to add the text to jpanel
+100 jlabels added to the jpanel
+100 jlabels in an array created to store images
+jlabels containing images in an array added to jpanel
+jbutton created 
+jbutton added to jpanel
+jbutton created
+jbutton added to jpanel

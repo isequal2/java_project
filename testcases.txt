@@ -1,0 +1,44 @@
+TEST CASES:
+
+Collection:
+DESCRIPTION			INPUT			EXPECTED OUTPUT			ACTUAL OUTPUT				PASS/FAIL
+Player Name			abc			Hi abc!!!					Hi abc!!!					Pass
+Game1				Game1 Button		Game1 starts				Game1 starts				Pass
+				clicked				
+Game2				Game2 Button		Game2 starts				Game2 starts				Pass
+				clicked
+Game3				Game3 Button		Game3 starts				Game3 starts				Pass
+				clicked								
+Game 4				Game4 Button		Game4 starts				Game4 starts				Pass
+				clicked				
+HighScore				HighScore Button		Scores of abc displayed(if existing)		Scores					Pass
+				clicked
+
+
+Game1:
+
+DESCRIPTION			INPUT			EXPECTED OUTPUT			ACTUAL OUTPUT				PASS/FAIL
+
+Start				Start Button clicked		Game1 Starts, Timer Starts			Game1 Starts				Pass
+Question Selection			Clicked RadioButton for	Operand and operation selected			Operand and operation selected			Pass
+				operand and operation
+Response				Correct Response		Score Increased				Score Increased				Pass
+				Incorrect Response		Score remains same				Score remains same				Pass
+Next				Next Button Clicked		Next Question Displayed			Next Question Displayed			Pass
+							Total count increased				Total count increased
+Stop				Stop Button Clicked		Game stops(timer stops, textfield			Game stops(timer stops, textfield			Pass
+							disabled, every field set to default)		disabled, every field set to default)
+
+
+Game2(Mnemonics):
+
+DESCRIPTION			INPUT			EXPECTED OUTPUT			ACTUAL OUTPUT				PASS/FAIL
+
+Start				Start Button Clicked		Game2 starts, Timer starts			Game2 starts, Timer starts 			Pass	
+							4-letter random text displayed			4-letter random text displayed
+Response				Correct Answer entered	Score increased by a point			Score increased by a point			Pass
+				Wrong Answer entered	Score remains same				Score remains same				Pass
+Next				Next Button Clicked		New question displayed (previous text+		New question displayed (previous text+		Pass
+							a random character), total increased by 1		a random character), total increased by 1		Pass
+Stop				Stop Button Clicked		Game stops, 'Game Over' displayed		Game stops, 'Game Over' displayed		Pass		
+																											

@@ -1,0 +1,26 @@
+null   Game1   5
+null   Game1   10
+null   Game1   10
+null   Game1   10
+null   Game1   10
+null   Game1   5
+null   Game1   15
+null   Game1   2
+null   Game1   0
+null   Game1   3
+null   Game1   0
+null   Mnemonics   00
+null   Mnemonics   00
+null   Mnemonics   00
+null   Mnemonics   00
+null   Mnemonics   00
+null   Mnemonics   00
+null   Mnemonics   00
+null   Mnemonics   00
+null   Game1   13
+null   Mnemonics   07
+null   Mnemonics   00
+null   Mnemonics   00
+null   Mnemonics   00
+null   Mnemonics   00
+null   Police Run   00
